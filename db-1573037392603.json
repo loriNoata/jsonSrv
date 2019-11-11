@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "active": true,
+      "complete": 20,
+      "data": {
+        "day": 11,
+        "month": "January"
+      },
+      "duration": "02:30:00",
+      "id": 10,
+      "level": "10",
+      "teacher": "Oana Pelea",
+      "timetable": "10:00",
+      "title": "English ",
+      "companyId": 1
+    },
+    {
+      "active": false,
+      "complete": 98,
+      "data": {
+        "day": 21,
+        "month": "February"
+      },
+      "duration": "02:30",
+      "id": 11,
+      "level": "5",
+      "teacher": "Tea Cher ",
+      "timetable": "12:30",
+      "title": "Chemistry",
+      "companyId": 2
+    },
+    {
+      "active": false,
+      "complete": 60,
+      "data": {
+        "day": 21,
+        "month": "March"
+      },
+      "duration": "02:10",
+      "id": 13,
+      "level": "3",
+      "teacher": "Mib Haela",
+      "timetable": "17:30",
+      "title": "SAP Basics",
+      "companyId": 1
+    },
+    {
+      "active": false,
+      "complete": 100,
+      "data": {
+        "day": 21,
+        "month": "Aprile"
+      },
+      "duration": "01:45",
+      "id": 14,
+      "level": "9",
+      "teacher": "Spor Sport",
+      "timetable": "14:30",
+      "title": "Sport",
+      "companyId": 1
+    },
+    {
+      "active": true,
+      "complete": 100,
+      "data": {
+        "day": 21,
+        "month": "July"
+      },
+      "duration": "2h:30min",
+      "id": 15,
+      "level": "6",
+      "teacher": "Bazede Date",
+      "timetable": "12:30",
+      "title": "Database ",
+      "companyId": 3
+    },
+    {
+      "active": false,
+      "complete": 0,
+      "data": {
+        "day": 19,
+        "month": "August"
+      },
+      "duration": "0h:45",
+      "id": 16,
+      "level": "3",
+      "teacher": "Edu Bibb",
+      "timetable": "17:30",
+      "title": "History",
+      "companyId": 3
+    },
+    {
+      "active": true,
+      "complete": 80,
+      "data": {
+        "day": 21,
+        "month": "January"
+      },
+      "duration": "02:30",
+      "id": 17,
+      "level": "8",
+      "teacher": "Mib Haela",
+      "timetable": "17:30",
+      "title": "SAP Basics",
+      "companyId": 1
+    },
+    {
+      "active": true,
+      "complete": 70,
+      "data": {
+        "day": 21,
+        "month": "July"
+      },
+      "duration": "01:45",
+      "id": 18,
+      "level": "2",
+      "teacher": "Spo Sport",
+      "timetable": "14:30",
+      "title": "Sport",
+      "companyId": 2
+    },
+    {
+      "active": true,
+      "complete": 66,
+      "data": {
+        "day": 21,
+        "month": "August"
+      },
+      "duration": "20:50",
+      "id": 19,
+      "level": "7",
+      "teacher": "Bazede Date",
+      "timetable": "12:30",
+      "title": " Music",
+      "companyId": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "BearingPoint",
+      "descrition": "Company BearingPoint from feb to aug"
+    },
+    {
+      "id": "2",
+      "name": "Tradeshift",
+      "descrition": "Company Tradeshift from feb to aug"
+    },
+    {
+      "id": "3",
+      "name": "Pirelli",
+      "descrition": "Company Pirelli from feb to aug"
+    }
+  ]
+}
